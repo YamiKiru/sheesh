@@ -1,0 +1,7 @@
+C:\Users\Utilizador\source\repos\AulaIDKagain\AulaIDKagain\bin\Debug\AulaIDKagain.exe.config
+C:\Users\Utilizador\source\repos\AulaIDKagain\AulaIDKagain\bin\Debug\AulaIDKagain.exe
+C:\Users\Utilizador\source\repos\AulaIDKagain\AulaIDKagain\bin\Debug\AulaIDKagain.pdb
+C:\Users\Utilizador\source\repos\AulaIDKagain\AulaIDKagain\obj\Debug\AulaIDKagain.csprojAssemblyReference.cache
+C:\Users\Utilizador\source\repos\AulaIDKagain\AulaIDKagain\obj\Debug\AulaIDKagain.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\source\repos\AulaIDKagain\AulaIDKagain\obj\Debug\AulaIDKagain.exe
+C:\Users\Utilizador\source\repos\AulaIDKagain\AulaIDKagain\obj\Debug\AulaIDKagain.pdb
