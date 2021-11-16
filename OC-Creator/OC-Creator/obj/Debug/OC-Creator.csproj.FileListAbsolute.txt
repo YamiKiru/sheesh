@@ -1,0 +1,7 @@
+C:\Users\11ºF\source\repos\OC-Creator\OC-Creator\bin\Debug\OC-Creator.exe.config
+C:\Users\11ºF\source\repos\OC-Creator\OC-Creator\bin\Debug\OC-Creator.exe
+C:\Users\11ºF\source\repos\OC-Creator\OC-Creator\bin\Debug\OC-Creator.pdb
+C:\Users\11ºF\source\repos\OC-Creator\OC-Creator\obj\Debug\OC-Creator.csproj.CoreCompileInputs.cache
+C:\Users\11ºF\source\repos\OC-Creator\OC-Creator\obj\Debug\OC-Creator.exe
+C:\Users\11ºF\source\repos\OC-Creator\OC-Creator\obj\Debug\OC-Creator.pdb
+C:\Users\11ºF\source\repos\OC-Creator\OC-Creator\obj\Debug\OC-Creator.csprojAssemblyReference.cache
