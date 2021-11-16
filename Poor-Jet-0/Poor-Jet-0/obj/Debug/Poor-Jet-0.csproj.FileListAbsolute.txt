@@ -1,0 +1,7 @@
+C:\Users\Utilizador\source\repos\Poor-Jet-0\Poor-Jet-0\bin\Debug\Poor-Jet-0.exe.config
+C:\Users\Utilizador\source\repos\Poor-Jet-0\Poor-Jet-0\bin\Debug\Poor-Jet-0.exe
+C:\Users\Utilizador\source\repos\Poor-Jet-0\Poor-Jet-0\bin\Debug\Poor-Jet-0.pdb
+C:\Users\Utilizador\source\repos\Poor-Jet-0\Poor-Jet-0\obj\Debug\Poor-Jet-0.csprojAssemblyReference.cache
+C:\Users\Utilizador\source\repos\Poor-Jet-0\Poor-Jet-0\obj\Debug\Poor-Jet-0.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\source\repos\Poor-Jet-0\Poor-Jet-0\obj\Debug\Poor-Jet-0.exe
+C:\Users\Utilizador\source\repos\Poor-Jet-0\Poor-Jet-0\obj\Debug\Poor-Jet-0.pdb
