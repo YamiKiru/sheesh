@@ -1,0 +1,7 @@
+C:\Users\Utilizador\source\repos\AulaNSei\AulaNSei\bin\Debug\AulaNSei.exe.config
+C:\Users\Utilizador\source\repos\AulaNSei\AulaNSei\bin\Debug\AulaNSei.exe
+C:\Users\Utilizador\source\repos\AulaNSei\AulaNSei\bin\Debug\AulaNSei.pdb
+C:\Users\Utilizador\source\repos\AulaNSei\AulaNSei\obj\Debug\AulaNSei.csprojAssemblyReference.cache
+C:\Users\Utilizador\source\repos\AulaNSei\AulaNSei\obj\Debug\AulaNSei.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\source\repos\AulaNSei\AulaNSei\obj\Debug\AulaNSei.exe
+C:\Users\Utilizador\source\repos\AulaNSei\AulaNSei\obj\Debug\AulaNSei.pdb
